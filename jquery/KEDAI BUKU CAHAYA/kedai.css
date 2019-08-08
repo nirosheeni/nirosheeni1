@@ -1,0 +1,41 @@
+﻿
+table{
+font-family:"Arial";
+border-collapse:collapse;
+width:100%;
+column-rule-width:10%
+}
+td{
+border:1px solid black;
+padding:8px;
+}
+th{
+  border:1px solid white;
+  padding:8px;
+}
+tr:nth-child(even)
+{background-color:#ffffff;}
+tr:hover {background-color:#ddd;}
+th{
+padding-top:12px;
+padding-bottom:12px;
+text-align:center;
+background-color:red;
+color:white;
+}
+h1{
+font-family:"Arial";
+text-align:center;
+color:purple;
+margin-bottom:-10px;
+}
+p{
+font-family:"Arial";
+text-align:center;
+}
+#bil{
+width:1%;
+}
+.tarikh{
+width:10%;
+}

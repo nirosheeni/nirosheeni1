@@ -1,0 +1,37 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table,td,th{
+    border:1px solid black;
+}
+table{
+    border-collapse:collapse;
+    width:100%;
+}
+th{
+    height:10px;
+}
+</style>
+</head>
+<body>
+<h2 style="color:blueviolet"><center>Kedai Buku Cahaya Ungu</center></h2>
+<p><center>No 9,Taman Pauh Putra,02600 Arau,Perlis</center></p>
+<table>
+<tr>
+<th rowspan="2" id="bil">Bil</th>
+<th rowspan="2">Tajuk</th>
+<th colspan="2">Tarikh</th>
+</tr>
+<tr>
+<th class="tarikh">Masuk</th>
+<th class="tarikh">Keluar</th>
+</tr>
+<tr><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td></tr>
+</table>
+</body>
+</html>
